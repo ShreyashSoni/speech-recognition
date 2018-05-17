@@ -21,7 +21,7 @@ $RECYCLE.BIN/
 .ipynb_checkpoints
 __pycache__
 
-.docx
+*.docx
 
 # =========================
 # Operating System Files
@@ -51,3 +51,6 @@ __pycache__
 Network Trash Folder
 Temporary Items
 .apdisk
+*.gif
+*.png
+*.jpeg
